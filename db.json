@@ -1,0 +1,20 @@
+[
+{
+  "userName": "adminuser1",
+  "registrationDate": "2020-01-01",
+  "role": "admin",
+  "status": "active"
+},
+{
+  "userName": "adminuser2",
+  "registrationDate": "2020-01-01",
+  "role": "staff",
+  "status": "locked"
+},
+{
+  "userName": "adminuser3",
+  "registrationDate": "2020-01-01",
+  "role": "customer care",
+  "status": "active"
+}
+]
