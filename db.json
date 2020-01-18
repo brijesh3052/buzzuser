@@ -15,8 +15,20 @@
 { 
 "userName":"adminuser3",
 "registrationDate":"2020-01-01",
-"role":"customer care",
+"role":"admin",
 "status":"active"
+},
+{ 
+"userName":"user1",
+"registrationDate":"2020-01-01",
+"role":"customer care",
+"status":"locked"
+},
+{ 
+"userName":"user2",
+"registrationDate":"2020-01-01",
+"role":"customer care",
+"status":"pending approval"
 }
 ]
 }
