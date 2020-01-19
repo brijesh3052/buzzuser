@@ -30,5 +30,22 @@
       "role": "customer care",
       "status": "pending approval"
     }
+  ],
+    "roleSummary": [
+    {
+      "roleName": "new admin",
+      "roleGroup": "admin",
+      "status": "active"
+    },
+    {
+      "roleName": "old admin",
+      "roleGroup": "admin",
+      "status": "closed"
+    },
+    {
+      "roleName": "staff",
+      "roleGroup": "staff",
+      "status": "active"
+    }
   ]
 }
