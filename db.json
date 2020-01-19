@@ -1,34 +1,34 @@
-{ 
-"posts":[ 
-{ 
-"userName":"adminuser1",
-"registrationDate":"2020-01-01",
-"role":"admin",
-"status":"active"
-},
-{ 
-"userName":"adminuser2",
-"registrationDate":"2020-01-01",
-"role":"staff",
-"status":"locked"
-},
-{ 
-"userName":"adminuser3",
-"registrationDate":"2020-01-01",
-"role":"admin",
-"status":"active"
-},
-{ 
-"userName":"user1",
-"registrationDate":"2020-01-01",
-"role":"customer care",
-"status":"locked"
-},
-{ 
-"userName":"user2",
-"registrationDate":"2020-01-01",
-"role":"customer care",
-"status":"pending approval"
-}
-]
+{
+  "userSummary": [
+    {
+      "userId": "1001",
+      "userName": "adminuser1",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "userId": "1051",
+      "userName": "adminuser2",
+      "role": "staff",
+      "status": "locked"
+    },
+    {
+      "userId": "1121",
+      "userName": "adminuser3",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "userId": "1056",
+      "userName": "user1",
+      "role": "customer care",
+      "status": "locked"
+    },
+    {
+      "userId": "2041",
+      "userName": "user2",
+      "role": "customer care",
+      "status": "pending approval"
+    }
+  ]
 }
